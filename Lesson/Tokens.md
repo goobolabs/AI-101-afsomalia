@@ -274,6 +274,3 @@ Understanding tokens is the foundation for learning how Large Language Models wo
 
 ---
 
-# Next Episode
-
-**Episode 04: What are Embeddings?**
